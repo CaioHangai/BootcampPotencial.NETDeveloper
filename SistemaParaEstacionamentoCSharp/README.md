@@ -11,7 +11,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+<img src="https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/SistemaParaEstacionamentoCSharp/Diagrama%20de%20Classes/diagrama_classe.png " />
 
 A classe contém três variáveis, sendo:
 
