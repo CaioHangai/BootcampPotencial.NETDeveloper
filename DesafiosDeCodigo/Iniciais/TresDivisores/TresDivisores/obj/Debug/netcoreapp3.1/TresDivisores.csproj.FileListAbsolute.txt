@@ -1,0 +1,14 @@
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.exe
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.deps.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.runtimeconfig.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.runtimeconfig.dev.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\bin\Debug\netcoreapp3.1\TresDivisores.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.csproj.AssemblyReference.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.AssemblyInfoInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.AssemblyInfo.cs
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.csproj.CoreCompileInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootcampPotencial\DesafiosDeCodigo\Iniciais\TresDivisores\TresDivisores\obj\Debug\netcoreapp3.1\TresDivisores.genruntimeconfig.cache
