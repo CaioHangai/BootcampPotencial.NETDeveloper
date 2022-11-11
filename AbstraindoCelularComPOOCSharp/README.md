@@ -12,7 +12,7 @@ Você é responsável por modelar um sistema que trabalha com celulares. Para is
 
 Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. Você deve criar as suas classes de acordo com o diagrama abaixo:
 
-[![Diagrama classes](https://github.com/digitalinnovationone/trilha-net-poo-desafio/raw/main/Imagens/diagrama.png)](https://github.com/digitalinnovationone/trilha-net-poo-desafio/blob/main/Imagens/diagrama.png)
+[![Diagrama classes](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/AbstraindoCelularComPOOCSharp/Diagrama%20de%20classe)](https://github.com/digitalinnovationone/trilha-net-poo-desafio/blob/main/Imagens/diagrama.png)
 
 ## Regras e validações
 
@@ -26,9 +26,11 @@ Foi criada as classes de acordo com as regras de negocio e o diagrama de classes
 
 Links para acessar a solução abaixo:
 
-- 🔗 [Program.cs](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/SistemaDeHospedagemHotel/SistemaHospedagem/Program.cs)
-- 🔗 [Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/SistemaDeHospedagemHotel/SistemaHospedagem/Models)
-- 🔗 [Exception](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/SistemaDeHospedagemHotel/SistemaHospedagem/Models/Exceptions)
+- 🔗 [Program.cs](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Program.cs)
+
+- 🔗 [Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Models)
+
+  
 
 ## ⏬ Aprenda com a Digital Inovvation One ⏬
 
