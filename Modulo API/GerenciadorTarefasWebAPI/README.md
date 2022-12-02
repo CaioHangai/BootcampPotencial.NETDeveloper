@@ -16,7 +16,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir que o usuá
 
 * A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
-[![Diagrama da classe Tarefa](https://github.com/digitalinnovationone/trilha-net-api-desafio/raw/main/diagrama.png)](https://github.com/digitalinnovationone/trilha-net-api-desafio/blob/main/diagrama.png)
+[![Diagrama da classe Tarefa](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/diagramaClasse.png)](https://github.com/digitalinnovationone/trilha-net-api-desafio/blob/main/diagrama.png)
 
 * Deve-se também gerar a migration para atualização no banco de dados.
 
@@ -26,7 +26,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir que o usuá
 
 **Swagger**
 
-[![Métodos Swagger](https://github.com/digitalinnovationone/trilha-net-api-desafio/raw/main/swagger.png)](https://github.com/digitalinnovationone/trilha-net-api-desafio/blob/main/swagger.png)
+[![Métodos Swagger](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)
 
 **Endpoints**
 
@@ -63,15 +63,15 @@ Criei uma Web API conforme solicitado no desafio obedecendo as regras descritas 
 
 **Controller** 
 
-* :link:[Controllers]( https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/SistemaParaEstacionamentoCSharp/ConsoleApp1/ConsoleApp1/Models/Estacionamento.cs)
+* :link:[Controllers]( https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Controllers/TarefaController.cs)
 
 **Models**
 
-* :link:[Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/SistemaParaEstacionamentoCSharp/ConsoleApp1/ConsoleApp1/Program.cs)
+* :link:[Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Models)
 
 **Connection String**
 
-* :link:[AppSettings.Jason](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/SistemaParaEstacionamentoCSharp/ConsoleApp1/ConsoleApp1/Program.cs)
+* :link:[AppSettings.Jason](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/appsettings.Development.json)
 
 
 
